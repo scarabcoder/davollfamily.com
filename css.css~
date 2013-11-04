@@ -1,0 +1,31 @@
+ .background {
+	background: url('picture4.png') no-repeat fixed; 
+	
+	background-size: 100%;		
+ }
+.fig1 {
+	float: left;
+	position: static;
+	display: inline-block;
+}
+.text1{
+background-color: whitesmoke;
+width: auto;
+display: inline-block;
+float: right;
+position: static;
+}
+
+.fig2 {
+	float:right;
+	position: static;
+	display:inline-block;
+}
+
+.text2{
+	background-color: white;
+	width: auto;
+	display: inline-block;
+	float: left;
+	position: static;
+}

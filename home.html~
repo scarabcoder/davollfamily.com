@@ -17,8 +17,14 @@
 		<li><a href="" >Prayer Letter</a></li>
 		<li><a href="" >Multimedia</a></li>	
 	</ul>
-</header>
 	
+</header>
+	<p><ul class="links">
+		<li><a href="">Home</a></li>
+		<li><a href="" >Testimony</a></li>
+		<li><a href="" >Prayer Letter</a></li>
+		<li><a href="" >Multimedia</a></li>	
+	</ul></p>
 <section class="article1">
 	
 		<h3 class="title">Making Disciples in Ecuador</h3>

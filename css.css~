@@ -26,7 +26,7 @@ h1 {
 	text-align: center;
 	float: none;
 }
-.text2, .text1 {
+.text2 {
 	border: 1px solid black;
 	border-style: inset;
 	background-color: gray;
